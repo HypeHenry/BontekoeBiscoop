@@ -1,0 +1,55 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bioscoopdebontekoe.nl" resolutions="1x" timestamp="1462376681290">
+  <folder name="css">
+    <file name="site_global.css" crc="4139284444"/>
+    <file name="master_a-stramien.css" crc="387233503" ref="index:betalen:films:film-info:reserveren:gelukt:prijzen:contact:mislukt"/>
+    <file name="master_b-stramien.css" crc="3782521354" ref="betalen:films:film-info:reserveren:gelukt:prijzen:contact:mislukt"/>
+    <file name="index.css" crc="3851658982" ref="index"/>
+    <file name="betalen.css" crc="4077443466" ref="betalen"/>
+    <file name="films.css" crc="4077443466" ref="films"/>
+    <file name="film-info.css" crc="4077443466" ref="film-info"/>
+    <file name="reserveren.css" crc="4077443466" ref="reserveren"/>
+    <file name="gelukt.css" crc="4077443466" ref="gelukt"/>
+    <file name="prijzen.css" crc="3820836096" ref="prijzen"/>
+    <file name="contact.css" crc="3789617145" ref="contact"/>
+    <file name="mislukt.css" crc="4077443466" ref="mislukt"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:prijzen:films:film-info:contact:reserveren:betalen:gelukt:mislukt"/>
+    <file name="museutils.js" crc="3790713428" ref="index:prijzen:films:film-info:contact:reserveren:betalen:gelukt:mislukt"/>
+    <file name="whatinput.js" crc="84559013" ref="index:prijzen:films:film-info:contact:reserveren:betalen:gelukt:mislukt"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:prijzen:films:film-info:contact:reserveren:betalen:gelukt:mislukt"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:prijzen:films:film-info:contact:reserveren:betalen:gelukt:mislukt"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:prijzen"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:prijzen:films:film-info:contact:reserveren:betalen:gelukt:mislukt"/>
+    <file name="jquery.scrolleffects.js" crc="4219894366" ref="prijzen:films:film-info:contact:reserveren:betalen:gelukt:mislukt"/>
+    <file name="webpro.js" crc="329496574" ref="contact"/>
+    <file name="form_check.php" crc="3805695515" ref="contact"/>
+    <file name="form_throttle.php" crc="3802629389" ref="contact"/>
+    <file name="form_process.php" crc="54267062" ref="contact"/>
+    <file name="form-u773.php" crc="354531714" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="bioscoop.jpg" crc="3963181395" ref="index"/>
+    <file name="logouitgaanbioscoophome.png" crc="11927737" seo="true" ref="index:prijzen:films:film-info:contact:reserveren:betalen:gelukt:mislukt"/>
+    <file name="geplakte afbeelding 510 x 288.jpg" crc="361404591" seo="true" ref="index"/>
+    <file name="geplakte afbeelding 736 x 414.jpg" crc="4064808358" seo="true" ref="index"/>
+    <file name="geplakte afbeelding 613 x 392.jpg" crc="4163352332" seo="true" ref="index"/>
+    <file name="banner-normal.png" crc="497791043" ref="index"/>
+    <file name="banner-hover.png" crc="422864924" ref="index"/>
+    <file name="banner-down.png" crc="422864924" ref="index"/>
+    <file name="bios.jpg" crc="230950841" ref="prijzen"/>
+    <file name="u797-17.png" crc="15823303" ref="contact"/>
+    <file name="u797-17-r.png" crc="136163867" ref="contact"/>
+    <file name="u797-17-m.png" crc="136163867" ref="contact"/>
+    <file name="u797-17-fs.png" crc="3950345048" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="458636363" seo="true" mt="1462376274786" redirect="true"/>
+  <file name="prijzen.html" crc="45718509" seo="true" mt="1462376597152" redirect="true"/>
+  <file name="films.html" crc="505233026" seo="true" mt="1462376597152" redirect="true"/>
+  <file name="film-info.html" crc="3995267468" seo="true" mt="1462376597152" redirect="true"/>
+  <file name="contact.html" crc="523969305" seo="true" mt="1462376597152" redirect="true"/>
+  <file name="reserveren.html" crc="274647559" seo="true" mt="1462376597152" redirect="true"/>
+  <file name="betalen.html" crc="445004284" seo="true" mt="1462376597152" redirect="true"/>
+  <file name="gelukt.html" crc="3929784217" seo="true" mt="1462376597152" redirect="true"/>
+  <file name="mislukt.html" crc="271943530" seo="true" mt="1462376597152" redirect="true"/>
+</manifest>
